@@ -1,0 +1,28 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Rouge.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\User 1\Documents\Unreal Projects\Red-Frontier\Intermediate\Build\Win64\x64\RougeEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h.obj"
+"C:\Users\User 1\Documents\Unreal Projects\Red-Frontier\Intermediate\Build\Win64\x64\UnrealEditor\Development\Rouge\Module.Rouge.cpp.obj"
+"C:\Users\User 1\Documents\Unreal Projects\Red-Frontier\Intermediate\Build\Win64\x64\UnrealEditor\Development\Rouge\BaseEnemy.cpp.obj"
+"C:\Users\User 1\Documents\Unreal Projects\Red-Frontier\Intermediate\Build\Win64\x64\UnrealEditor\Development\Rouge\Collectable.cpp.obj"
+"C:\Users\User 1\Documents\Unreal Projects\Red-Frontier\Intermediate\Build\Win64\x64\UnrealEditor\Development\Rouge\Enemy.cpp.obj"
+"C:\Users\User 1\Documents\Unreal Projects\Red-Frontier\Intermediate\Build\Win64\x64\UnrealEditor\Development\Rouge\EnemyAnimInstance.cpp.obj"
+"C:\Users\User 1\Documents\Unreal Projects\Red-Frontier\Intermediate\Build\Win64\x64\UnrealEditor\Development\Rouge\EnemySpawner.cpp.obj"
+"C:\Users\User 1\Documents\Unreal Projects\Red-Frontier\Intermediate\Build\Win64\x64\UnrealEditor\Development\Rouge\FastEnemy.cpp.obj"
+"C:\Users\User 1\Documents\Unreal Projects\Red-Frontier\Intermediate\Build\Win64\x64\UnrealEditor\Development\Rouge\GameScore.cpp.obj"
+"C:\Users\User 1\Documents\Unreal Projects\Red-Frontier\Intermediate\Build\Win64\x64\UnrealEditor\Development\Rouge\HeavyEnemy.cpp.obj"
+"C:\Users\User 1\Documents\Unreal Projects\Red-Frontier\Intermediate\Build\Win64\x64\UnrealEditor\Development\Rouge\LevelManager.cpp.obj"
+"C:\Users\User 1\Documents\Unreal Projects\Red-Frontier\Intermediate\Build\Win64\x64\UnrealEditor\Development\Rouge\MainCharacter.cpp.obj"
+"C:\Users\User 1\Documents\Unreal Projects\Red-Frontier\Intermediate\Build\Win64\x64\UnrealEditor\Development\Rouge\MainCharacterAnimInstance.cpp.obj"
+"C:\Users\User 1\Documents\Unreal Projects\Red-Frontier\Intermediate\Build\Win64\x64\UnrealEditor\Development\Rouge\MyGameInstance.cpp.obj"
+"C:\Users\User 1\Documents\Unreal Projects\Red-Frontier\Intermediate\Build\Win64\x64\UnrealEditor\Development\Rouge\MySaveGame.cpp.obj"
+"C:\Users\User 1\Documents\Unreal Projects\Red-Frontier\Intermediate\Build\Win64\x64\UnrealEditor\Development\Rouge\Projectile.cpp.obj"
+"C:\Users\User 1\Documents\Unreal Projects\Red-Frontier\Intermediate\Build\Win64\x64\UnrealEditor\Development\Rouge\Rouge.cpp.obj"
+"C:\Users\User 1\Documents\Unreal Projects\Red-Frontier\Intermediate\Build\Win64\x64\UnrealEditor\Development\Rouge\RougeGameModeBase.cpp.obj"
+"C:\Users\User 1\Documents\Unreal Projects\Red-Frontier\Intermediate\Build\Win64\x64\UnrealEditor\Development\Rouge\Default.rc2.res"
+/OUT:"C:\Users\User 1\Documents\Unreal Projects\Red-Frontier\Intermediate\Build\Win64\x64\UnrealEditor\Development\Rouge\UnrealEditor-Rouge.lib"

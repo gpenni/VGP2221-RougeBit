@@ -1,0 +1,39 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.Rouge.cpp.obj": [
+			"BaseEnemy.gen.cpp.obj",
+			"Collectable.gen.cpp.obj",
+			"Enemy.gen.cpp.obj",
+			"EnemyAnimInstance.gen.cpp.obj",
+			"EnemySpawner.gen.cpp.obj",
+			"FastEnemy.gen.cpp.obj",
+			"GameScore.gen.cpp.obj",
+			"HeavyEnemy.gen.cpp.obj",
+			"LevelManager.gen.cpp.obj",
+			"MainCharacter.gen.cpp.obj",
+			"MainCharacterAnimInstance.gen.cpp.obj",
+			"MyGameInstance.gen.cpp.obj",
+			"MySaveGame.gen.cpp.obj",
+			"Projectile.gen.cpp.obj",
+			"Rouge.init.gen.cpp.obj",
+			"RougeGameModeBase.gen.cpp.obj",
+			"BaseEnemy.cpp.obj",
+			"Collectable.cpp.obj",
+			"Enemy.cpp.obj",
+			"EnemyAnimInstance.cpp.obj",
+			"EnemySpawner.cpp.obj",
+			"FastEnemy.cpp.obj",
+			"GameScore.cpp.obj",
+			"HeavyEnemy.cpp.obj",
+			"LevelManager.cpp.obj",
+			"MainCharacter.cpp.obj",
+			"MainCharacterAnimInstance.cpp.obj",
+			"MyGameInstance.cpp.obj",
+			"MySaveGame.cpp.obj",
+			"Projectile.cpp.obj",
+			"Rouge.cpp.obj",
+			"RougeGameModeBase.cpp.obj"
+		]
+	}
+}

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\RougeBit.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Rouge.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\RougeEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Config\HoloLens">
+      <UniqueIdentifier>{4C8DD267-CDE7-336F-8602-F5F485D22BAB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\HoloLens\HoloLensEngine.ini">
+      <Filter>Config\HoloLens</Filter>
+    </None>
+    <Filter Include="Source\Rouge">
+      <UniqueIdentifier>{532F415B-3CB9-3DDF-809D-0B6075F4A14E}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Rouge\BaseEnemy.cpp">
+      <Filter>Source\Rouge</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Rouge\BaseEnemy.h">
+      <Filter>Source\Rouge</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Rouge\Collectable.cpp">
+      <Filter>Source\Rouge</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Rouge\Collectable.h">
+      <Filter>Source\Rouge</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Rouge\Enemy.cpp">
+      <Filter>Source\Rouge</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Rouge\Enemy.h">
+      <Filter>Source\Rouge</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Rouge\EnemyAnimInstance.cpp">
+      <Filter>Source\Rouge</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Rouge\EnemyAnimInstance.h">
+      <Filter>Source\Rouge</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Rouge\EnemySpawner.cpp">
+      <Filter>Source\Rouge</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Rouge\EnemySpawner.h">
+      <Filter>Source\Rouge</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Rouge\FastEnemy.cpp">
+      <Filter>Source\Rouge</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Rouge\FastEnemy.h">
+      <Filter>Source\Rouge</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Rouge\GameScore.cpp">
+      <Filter>Source\Rouge</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Rouge\GameScore.h">
+      <Filter>Source\Rouge</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Rouge\HeavyEnemy.cpp">
+      <Filter>Source\Rouge</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Rouge\HeavyEnemy.h">
+      <Filter>Source\Rouge</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Rouge\LevelManager.cpp">
+      <Filter>Source\Rouge</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Rouge\LevelManager.h">
+      <Filter>Source\Rouge</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Rouge\MainCharacter.cpp">
+      <Filter>Source\Rouge</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Rouge\MainCharacter.h">
+      <Filter>Source\Rouge</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Rouge\MainCharacterAnimInstance.cpp">
+      <Filter>Source\Rouge</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Rouge\MainCharacterAnimInstance.h">
+      <Filter>Source\Rouge</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Rouge\MyGameInstance.cpp">
+      <Filter>Source\Rouge</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Rouge\MyGameInstance.h">
+      <Filter>Source\Rouge</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Rouge\MySaveGame.cpp">
+      <Filter>Source\Rouge</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Rouge\MySaveGame.h">
+      <Filter>Source\Rouge</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Rouge\Projectile.cpp">
+      <Filter>Source\Rouge</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Rouge\Projectile.h">
+      <Filter>Source\Rouge</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\Rouge\Rouge.Build.cs">
+      <Filter>Source\Rouge</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Rouge\Rouge.cpp">
+      <Filter>Source\Rouge</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Rouge\Rouge.h">
+      <Filter>Source\Rouge</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Rouge\RougeGameModeBase.cpp">
+      <Filter>Source\Rouge</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Rouge\RougeGameModeBase.h">
+      <Filter>Source\Rouge</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
